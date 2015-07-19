@@ -7,8 +7,10 @@
 
 ------------------------
 
+# Installation
+
 * Clone into folder
-* Open from browser and setup starts,
+* Open from browser and fill out startup information,
 * use! 
 
 :)
