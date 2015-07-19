@@ -9,6 +9,7 @@
 
 # Installation
 
+* Back up your old installation (if you have one)
 * Clone into folder
 * Open from browser and fill out startup information (caveat: it will delete old tables with the same name, so DO A BACKUP [as you should ususally do])
 * use! 
