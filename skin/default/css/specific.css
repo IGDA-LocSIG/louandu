@@ -1,0 +1,73 @@
+section h3 {
+	background: rgb(51,51,51);
+	background: -moz-linear-gradient(top,  rgba(51,51,51,1) 0%, rgba(34,34,34,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(51,51,51,1)), color-stop(100%,rgba(34,34,34,1)));
+	background: -webkit-linear-gradient(top,  rgba(51,51,51,1) 0%,rgba(34,34,34,1) 100%);
+	background: -o-linear-gradient(top,  rgba(51,51,51,1) 0%,rgba(34,34,34,1) 100%);
+	background: -ms-linear-gradient(top,  rgba(51,51,51,1) 0%,rgba(34,34,34,1) 100%);
+	background: linear-gradient(top,  rgba(51,51,51,1) 0%,rgba(34,34,34,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#333333', endColorstr='#222222',GradientType=0 );
+	 box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.30);
+    -moz-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.30);
+    -webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.30);
+	text-align: left;
+	color: #fff;
+	font-weight: normal;
+	font-size: 1.25em;
+	line-height: 1.5em;
+	padding: 6px;
+	-webkit-border-radius: 45px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: 6px;
+}
+section h3 .btn {
+	line-height: 12px;
+}
+section h3 .dropdown-menu {
+	left: -130px;
+}
+.table-vctr td {
+	vertical-align: middle;
+}
+.table input, .table select, .table textarea {
+	margin-bottom: 0;
+}
+table.history th {
+	font-weight: normal;
+	text-align: left;
+	padding-right: 15px;
+}
+table.history td {
+	padding-right: 15px;
+}
+table.history input {
+	width: 60px;
+}
+table.history input.xl {
+	width: 250px;
+}
+table.history select {
+	width: 100px;
+}
+.ctr, table td.ctr {
+	text-align: center;
+}
+.table-striped tbody.click-rows tr:hover td {
+	background-color: #e9f3fc;
+	cursor: pointer;
+}
+.alert-well {
+	color: #666;
+	background-color: #f5f5f5;
+	border: 1px solid #eee;
+}
+span.error {
+	color: #c33;
+}
+.table tr.warning td {
+	color: #ff8000;
+}
+.table tr.error td {
+	color :#c33;
+}
