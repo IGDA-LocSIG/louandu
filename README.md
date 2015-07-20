@@ -1,4 +1,4 @@
-## GLOC
+# Louandu
 
 
 * version  : 0.2
@@ -7,7 +7,7 @@
 
 ------------------------
 
-# Installation
+## Installation
 
 * Back up your old installation (if you have one)
 * Clone into folder (or unzip the download)
@@ -16,7 +16,7 @@
 
 :)
 
-# Licences
+## Licences
 
 * Louandu is released under GPL3.
 * TaskFreak is released under LGPL.
