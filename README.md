@@ -15,3 +15,8 @@
 * use! 
 
 :)
+
+# Licences
+
+* Louandu is released under GPL3.
+* TaskFreak is released under LGPL.
